@@ -1,6 +1,6 @@
 import React, { Suspense } from 'react'
 import TicketList from './TicketList'
-import Loading from './loading'
+import Loading from '../loading'
 
 export default function page() {
   return (
@@ -8,7 +8,7 @@ export default function page() {
       <nav>
         <div>
           <h2>Tickets</h2>
-          <p><small>Currently open tickets:</small></p>
+          <p><small>Curdrently open tickets:</small></p>
         </div>
       </nav>
 
