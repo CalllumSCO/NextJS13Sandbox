@@ -8,7 +8,7 @@ export default function page() {
       <nav>
         <div>
           <h2>Tickets</h2>
-          <p><small>Cuurently open tickets:</small></p>
+          <p><small>Currently open tickets:</small></p>
         </div>
       </nav>
 
